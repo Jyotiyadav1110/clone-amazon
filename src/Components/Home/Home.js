@@ -68,9 +68,10 @@ function Home() {
          <div className="home__row">
           <Product
             id="54419823"
-            title="OnePlus 80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1 (Black)"
+            title="
+SANARA Traditional Ethnic Polki Bangles/Kada Set for Women & Girls Bangles Jewelry"
             price={12999}
-            image="https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/66197f12-7e47-451c-8aa1-d357fe68efeb._CR0,0,1200,628_SX507_QL70_.jpg"
+            image="https://m.media-amazon.com/images/I/81OPocX4K5L._UY500_.jpg"
             rating={5}
           />
         </div>
@@ -84,9 +85,9 @@ function Home() {
           />
           <Product
             id="54419823"
-            title="Leriya Fashion Women's Corduroy Button Down Pocket Shirts Casual Long Sleeve Oversized Blouses Tops"
-            price={349}
-            image="https://m.media-amazon.com/images/I/61zb98Bg6QL._UX522_.jpg"
+            title="Chinar Jewels Golden Pearl Kada Bangle Churi Kangan Set with Green Stone| The Traditional Ethnic Stylish Smart and Designer Collection for /Marriage/Vivah/Shadi/ for Women and Girls."
+            price={3491}
+            image="https://m.media-amazon.com/images/I/915i76EbkYL._UY535_.jpg"
             rating={5}
           />
         </div>
