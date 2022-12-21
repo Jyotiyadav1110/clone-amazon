@@ -13,13 +13,16 @@ function Home() {
         />
 
         <div className="home__row">
-          <Product
+          <div className="home__row">
+            <Product
             id="12321341"
             title="Scott International Men's Regular Fit T-Shirt (Pack of 3)"
             price={474}
             image="https://m.media-amazon.com/images/I/71vp8Lec9JL._UX679_.jpg"
             rating={4}
           />
+          </div>
+          <div className="home__row">
           <Product
             id="54419823"
             title="Leriya Fashion Women's Corduroy Button Down Pocket Shirts Casual Long Sleeve Oversized Blouses Tops"
@@ -27,6 +30,8 @@ function Home() {
             image="https://m.media-amazon.com/images/I/61zb98Bg6QL._UX522_.jpg"
             rating={5}
           />
+          </div>
+          <div className="home__row">
           <Product
             id="49538094"
             title="Amazon Brand - Symbol Men's Regular Fit T-Shirt"
@@ -34,6 +39,7 @@ function Home() {
             image="https://m.media-amazon.com/images/I/81JKpcBkeSL._UX522_.jpg"
             rating={5}
           />
+          </div>
         </div>
         <div className="home__row">
           <Product
